@@ -260,7 +260,7 @@ h3 {
     font-size: 16px;
   }
 }
-input[checked] ~ label::before {
+input:checked ~ label::before {
   background: #ffffff url("../img/check.png") no-repeat 0 0;
   background-size: 100%;
 }
