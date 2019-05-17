@@ -1,0 +1,22 @@
+{
+  "name": "gulp4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-less": "^4.0.1",
+    "gulp-plumber": "^1.2.0"
+  },
+  "dependencies": {
+    "del": "^3.0.0"
+  }
+}
